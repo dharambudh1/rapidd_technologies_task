@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "737534590814",
+    "project_id": "rapidd-technologies-task",
+    "storage_bucket": "rapidd-technologies-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737534590814:android:0008659e5e1cfdf069d9cf",
+        "android_client_info": {
+          "package_name": "com.example.rapidd_technologies_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737534590814-fi8hbmjkusktlrmk06q0dmr0bpp4vqmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rapidd_technologies_task",
+            "certificate_hash": "cb9468bf47bb3237d813d6d73507e5d56d3ae470"
+          }
+        },
+        {
+          "client_id": "737534590814-73imcd0q25bdpde0jqjpcoapshal3njr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nOFFnQXsidMbFhxAzowZgweb3LE5D9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737534590814-73imcd0q25bdpde0jqjpcoapshal3njr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737534590814-s70tc2in0frrdts3pie74o6m3oiqhepo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rapiddTechnologiesTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
